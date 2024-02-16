@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BottomNav</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="bottom_nav_chats">Chats</string>
+    <string name="bottom_nav_stories">Stories</string>
+    <string name="bottom_nav_profile">Profile</string>
+    <string name="frag_text_chats">Chats</string>
+    <string name="frag_text_stories">Stories</string>
+    <string name="def_toolbar_menu_close_app">Close App</string>
+</resources>

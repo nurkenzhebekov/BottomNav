@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bottom_nav_chats">Chats</string>
+    <string name="bottom_nav_stories">Stories</string>
+    <string name="bottom_nav_profile">Profile</string>
+    <string name="frag_text_chats">Chats</string>
+    <string name="frag_text_stories">Stories</string>
+    <string name="def_toolbar_menu_close_app">Close App</string>
+</resources>
